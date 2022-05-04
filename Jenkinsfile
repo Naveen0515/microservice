@@ -1,6 +1,6 @@
 pipeline {
 agent {
-label 'akhila123'
+label 'Built-in Node'
 }
 
 stages {
